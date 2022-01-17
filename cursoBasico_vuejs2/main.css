@@ -1,0 +1,15 @@
+img{
+    width: 50px;
+}
+.verde {
+    color: green;
+}
+.rojo { 
+    color: red;
+}
+.naranja{
+    color: orange;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
