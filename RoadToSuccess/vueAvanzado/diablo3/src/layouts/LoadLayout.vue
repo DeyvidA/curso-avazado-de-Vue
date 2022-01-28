@@ -1,7 +1,7 @@
 <template>
-    <div class="loading-layout">
-        <slot />
-    </div>
+  <div class="loading-layout">
+    <slot/>
+  </div>
 </template>
 
 <script>
