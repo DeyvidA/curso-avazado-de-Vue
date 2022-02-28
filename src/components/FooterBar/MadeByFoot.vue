@@ -4,7 +4,7 @@
       Made by
       <a href="" target="_blank">Deyvid A</a>
       for
-      <a href="https://platzi.com/" target="_blank">Platzi</a>
+      <a href="https://platzi.com/" target="_blank">Deyvid Arauzz</a>
     </small>
   </p>
 </template>
